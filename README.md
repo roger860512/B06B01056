@@ -7,10 +7,10 @@ Profile
 
 Why learning Data Science?
 
-Introduction of myself 
+Introduction of me 
 
 Class Schedule
-2/21 	課程基本介紹、進行方式、成績評量規範。  
+2/21 	課程基本介紹、進行方式、成績評量規範。
 2/28 	228放假一天。  
 3/7 	資料科學應用於金融CRM議題的實例介紹。 
       野村證券CRM客戶關係管理。 

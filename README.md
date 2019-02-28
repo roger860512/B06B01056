@@ -5,9 +5,12 @@ Course Information
 
 Profile
 
+
 Why learning Data Science?
 
 Introduction of me 
+Hello! My name is Roger Huang . I live in Taiwan Taipei , study in Infomation Management Department of National Taiwan University now . I was usually recognized as a lively person , but I also know myself as a people who like to do and create something alone . In addition , my interest is doing exercise and social . Welcome everybody!
+
 
 Class Schedule
 2/21 	課程基本介紹、進行方式、成績評量規範。

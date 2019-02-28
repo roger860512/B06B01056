@@ -5,10 +5,12 @@ Course Information
 
 Profile
 
-
 Why learning Data Science?
 
+Data science is a project wihich really in today's information world . We cannot ignore it or tell ourself we don't need it . Because it is not only a main trend but also a powerful tool which can be used in everywhere . So , I think that learing Data Science is a thing that is so much to gain and nothing to lose . 
+
 Introduction of me 
+
 Hello! My name is Roger Huang . I live in Taiwan Taipei , study in Infomation Management Department of National Taiwan University now . I was usually recognized as a lively person , but I also know myself as a people who like to do and create something alone . In addition , my interest is doing exercise and social . Welcome everybody!
 
 

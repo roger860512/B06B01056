@@ -1,7 +1,10 @@
 # B06B01056 黃子維
 Course Information
 1072-CSX4001
-國立台灣大學「資料科學程式設計」課程
+國立台灣大學「資料科學程式設計」課程 
+
+我將作業放至project欄目
+
 
 Profile
 

@@ -13,6 +13,21 @@ Introduction of me
 
 Hello! My name is Roger Huang . I live in Taiwan Taipei , study in Infomation Management Department of National Taiwan University now . I was usually recognized as a lively person , but I also know myself as a people who like to do and create something alone . In addition , my interest is doing exercise and social . Welcome everybody!
 
+Progress
+AT Home
+HW0
+https://github.com/roger860512/B06B01056/tree/master/%22HW0
+
+HW1（due on 3/22）
+做了兩份一份是以自己的資料所做的資料視覺化（樸素貝葉斯分類器）; 另一份是用91APP提供之資料集所做的EDA和資料視覺化，並分析個圖所代表之含義。
+https://github.com/roger860512/B06B01056/tree/master/HW1
+學習心得：
+1.許多種資料視覺化的方式
+2.EDA，更好的分析資料各個欄位之間的關係
+3.選擇欄位的方法
+4.增加程式進行的效率，例如：Feature Scaling、API使用等等
+
+
 
 Class Schedule
 2/21 	課程基本介紹、進行方式、成績評量規範。
@@ -65,4 +80,4 @@ Learning Schedule
 What did i learn ?
 
 
-Processing Project
+

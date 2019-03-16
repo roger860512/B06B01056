@@ -1,27 +1,27 @@
-#### B06B01056 黃子維
+# B06B01056 黃子維
 Course Information
 1072-CSX4001
 國立台灣大學「資料科學程式設計」課程 
 
-### Profile
+## Profile
 
-## Why learning Data Science?
+### Why learning Data Science?
 
 Data science is a project wihich really in today's information world . We cannot ignore it or tell ourself we don't need it . Because it is not only a main trend but also a powerful tool which can be used in everywhere . So , I think that learing Data Science is a thing that is so much to gain and nothing to lose . 
 
-## Introduction of me 
+### Introduction of me 
 
 Hello! My name is Roger Huang . I live in Taiwan Taipei , study in Infomation Management Department of National Taiwan University now . I was usually recognized as a lively person , but I also know myself as a people who like to do and create something alone . In addition , my interest is doing exercise and social . Welcome everybody!
 
-### Progress
+## Progress
 
-## AT Home
+### AT Home
 
-# HW0
+#### HW0
 
 https://github.com/roger860512/B06B01056/tree/master/%22HW0
 
-# HW1（due on 3/22）
+#### HW1（due on 3/22）
 
 做了兩份一份是以自己的資料所做的資料視覺化（樸素貝葉斯分類器）; 另一份是用91APP提供之資料集所做的EDA和資料視覺化，並分析個圖所代表之含義。
 
@@ -35,7 +35,7 @@ https://github.com/roger860512/B06B01056/tree/master/HW1
 
 
 
-## Class Schedule
+### Class Schedule
 2/21 	課程基本介紹、進行方式、成績評量規範。
 
 3/7 	資料科學應用於金融CRM議題的實例介紹。 
@@ -81,7 +81,7 @@ https://github.com/roger860512/B06B01056/tree/master/HW1
 
 
 
-## What did i learn ?
+### What did i learn ?
 
 
 

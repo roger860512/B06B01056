@@ -21,7 +21,7 @@ Hello! My name is Roger Huang . I live in Taiwan Taipei , study in Infomation Ma
 
 https://github.com/roger860512/B06B01056/tree/master/%22HW0
 
-#### HW1（due on 3/22）
+#### HW1（due on 3/21）
 
 做了兩份一份是以自己的資料所做的資料視覺化（樸素貝葉斯分類器）; 另一份是用91APP提供之資料集所做的EDA和資料視覺化，並分析個圖所代表之含義。
 
@@ -32,6 +32,10 @@ https://github.com/roger860512/B06B01056/tree/master/HW1
 除了學習到許多資料分析的方式、資料視覺化的技巧之外，我完成這個資料分析和資料視覺化後
 
 最有感觸的就是你或許很熟悉如何玩轉這些資料，但若是不知道這些資料的真正含義、不知道如何去分析他們，那他們也不過是一團分類過後的垃圾，因此學會與各行各業的專業人士合作在這個領域是非常重要的。
+
+#### HW2 (due on 3/28)
+
+
 
 
 ### Class Schedule

@@ -1,0 +1,23 @@
+How to create a Word Cloud
+Create a table of either Text data, a Pick One or a Pick Any question.
+In Show Data as select Word Cloud.
+
+Viewing the original text
+Click on a word in the word cloud.
+Press the magnifying button.
+
+How to modify a word cloud
+
+Excluding words
+The Word Cloud is created using the 100 most frequent words, excluding uninteresting words, such as I, who and that. You can choose to exclude addition words by dragging them to the Ignore region. You can include words that have been excluded by dragging them back into the word cloud.
+
+Merging
+Words can be merged by dragging and dropping.
+
+Creating phrases
+Sometimes words in a word cloud should be combined. For example, by default coca and cola will appear as separate words in different positions on the word cloud, but it more useful if they appear together as coca-cola. This is done as follows:
+On the word cloud, select a word that already contains a distinct part of the phrase (such as coca).
+Click the pencil icon next to the word at the top-left of the screen.
+Type in a phrase you want to combine. For example, coca-cola and press Enter on your keyboard. This will cause the following things to happen:
+The phrase you typed will appear on the word cloud.
+Its size will be determined by the number of times that phrase appears and the number of times the original phrase appears, as can be seen in example below.

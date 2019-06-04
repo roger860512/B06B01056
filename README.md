@@ -72,7 +72,7 @@ https://github.com/roger860512/B06B01056/blob/master/期末專題提案.pptx
 
 #### 期末專題：Amazon 顧客評論分析
 
-
+期末專題資料夾
 
 
 ### Class Schedule

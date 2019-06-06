@@ -11,7 +11,7 @@ About the Dataset.txt
 
 #### 使用到的模型介紹：
 
-Amazon_KNN-Sentiment Analysis.ipynb
+Model introduction 資料夾
 
 #### 完整推薦系統：
 

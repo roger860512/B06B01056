@@ -5,13 +5,17 @@
 
 期末專題提案.pptx
 
-#### 資料及介紹：
+#### 資料及模型介紹：
 
 About the Dataset.txt
 
-#### 使用到的模型介紹：
+Random Forest Resgressor.txt
 
-Model introduction 資料夾
+Distance Based Model.txt
+
+Matrix Factoriztion.txt
+
+Probabilistic Matrix Factoriztion.txt
 
 #### 完整推薦系統：
 

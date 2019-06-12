@@ -11,11 +11,7 @@ About the Dataset.txt
 
 Random Forest Resgressor.txt
 
-Distance Based Model.txt
-
 Matrix Factoriztion.txt
-
-Probabilistic Matrix Factoriztion.txt
 
 #### 完整推薦系統：
 
